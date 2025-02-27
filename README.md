@@ -2,5 +2,5 @@
 Created with CodeSandbox
 
 # scripts
-npm i[nstall}
-npm start
+`npm i[nstall]`  
+`npm start`  
